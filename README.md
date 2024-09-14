@@ -20,7 +20,7 @@ The skin lesion images were taken from ISIC dataset, available on https://challe
 * OpenCV 4.8.1
 
 ## Contributors
-Paulo Roberto de Moura Júnior (me)  
 Giovanni Benedetti da Rosa 
+Paulo Roberto de Moura Júnior
 
 [High level description](https://github.com/paulomouraj/classic_skin_segmentation/blob/main/segmentation_skin_lesions_HLD.pdf)
